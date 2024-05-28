@@ -1,5 +1,7 @@
 # Welcome on my Profile
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+
 - I´m a developer student for Frontend 🚀
 - Work in progress                                                                 
 - Gamer ⌨️
