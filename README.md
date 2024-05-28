@@ -1,6 +1,6 @@
-# Welcome on my Profile
+<h1 align="center">⚡Welcome on my Profile⚡</h1>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=maxnoelp alt=maxnoelp/> </p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=maxnoelp alt=maxnoelp/> </p>
 
 - I´m a developer student for Frontend 🚀
 - Work in progress                                                                 
@@ -8,7 +8,8 @@
 - german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
 - Reach me at **noelpmax@gmail.com** 📫
 
-  #### _*I´ll go for the Homerun*_
+
+<h3 align="center"><em><strong>I´ll go for the Homerun</strong></em></h3>
   
 
 
