@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome on my Profile
 
-<!--
-**maxnoelp/maxnoelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I´m a developer student for Frontend 🚀
+- Work in progress                                                                 
+- Gamer ⌨️
+- german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
+- Reach me at **noelpmax@gmail.com** 📫
 
-Here are some ideas to get you started:
+  #### _*I´will go for the Homerun*_
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## My stats
+
+![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=transparent)
+
+
+
+
+
+<h3 align="left">Languages and Tools in leraning:</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
