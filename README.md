@@ -16,7 +16,8 @@
 
 ## My stats
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=transparent)
+![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=date_night)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnoelp&theme=date_night) 
 
 
 
