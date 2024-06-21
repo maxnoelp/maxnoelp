@@ -16,8 +16,10 @@
 
 ## My stats
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=date_night)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnoelp&theme=date_night) 
+![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
+![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=date_night)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnoelp&theme=date_night)<br>
+
 
 
 
