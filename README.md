@@ -18,7 +18,7 @@
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?maxnoelp=lironmiz&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxnoelp&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxnoelp&theme=radical&utcOffset=8)
 
