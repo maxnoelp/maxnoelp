@@ -9,6 +9,7 @@
 - german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
 - Reach me at **noelpmax@gmail.com** 📫
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21dg7ukcvj4dhosc325lcfjaq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21dg7ukcvj4dhosc325lcfjaq&redirect=true)
 
 <h3 align="center"><em><strong>I´ll go for the Homerun</strong></em></h3>
   
