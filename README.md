@@ -18,10 +18,13 @@
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?maxnoelp=lironmiz&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxnoelp&theme=radical&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?maxnoelp=lironmiz&theme=radical)
+
+
 
 
 
