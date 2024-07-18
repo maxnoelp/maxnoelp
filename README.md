@@ -18,13 +18,12 @@
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 [[![GitHub Streak](https://streak-stats.demolab.com?user=maxnoelp&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
-](https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
+https://github-stats-alpha.vercel.app/api?username={your-github-maxnoelp}&cc=000&tc=fff&ic=fff&bc=000
 
 Where cc = Card Color
       tc = Text Color
       ic = Icon Color
-      bc = Border Color)
-
+      bc = Border Color
 
 
 
