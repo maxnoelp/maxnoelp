@@ -17,7 +17,7 @@
 ## My stats
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=transparent)<br>
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnoelp&theme=transparent)<br>
 
 
