@@ -25,8 +25,7 @@
 
 
 <h3 align="left">Languages and Tools in learning:</h3>
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="left">(https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 Look at:
