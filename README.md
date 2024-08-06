@@ -20,7 +20,7 @@
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxnoelp&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxnoelp&theme=radical&utcOffset=8) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) 
 
 
 
