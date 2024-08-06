@@ -20,7 +20,7 @@
 
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) 
+![Prinz GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=dark) 
 
 
 
