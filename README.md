@@ -3,8 +3,8 @@
 
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=maxnoelp alt=maxnoelp/> </p>
 
-- I´m a developer student for Frontend 🚀
-- Work in progress                                                                 
+- Junior Web Developer 🚀
+- Python learning in progress!                                                                 
 - Gamer ⌨️
 - german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
 - Reach me at **noelpmax@gmail.com** 📫
