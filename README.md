@@ -21,6 +21,7 @@
 ![](https://www.codewars.com/users/maxnoelp/badges/large)<br>
 
 ![Prinz GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=dark) 
+![Prinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxnoelp&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxnoelp&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
