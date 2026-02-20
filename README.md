@@ -3,7 +3,7 @@
 
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=maxnoelp alt=maxnoelp/> </p>
 
-- Web Developer 🚀
+- Full-stack Developer 🚀
 - Django/DjangoCMS                                                                
 - Gamer ⌨️
 - german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
