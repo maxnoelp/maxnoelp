@@ -3,8 +3,8 @@
 
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=maxnoelp alt=maxnoelp/> </p>
 
-- Junior Web Developer 🚀
-- mastering Django/DjangoCMS                                                                
+- Web Developer 🚀
+- Django/DjangoCMS                                                                
 - Gamer ⌨️
 - german ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png)
 - Reach me at **noelpmax@gmail.com** 📫
